@@ -1,1 +1,1 @@
-https://github.com/NelTechWorks/Basic-HTML-Website.git
+https://github.com/NelTechWorks/Basic-HTML-Website
